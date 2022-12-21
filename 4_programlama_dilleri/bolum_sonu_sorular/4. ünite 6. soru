@@ -1,0 +1,10 @@
+6.soru: Veri tiplerinin sınırları değiştirilebilirmi ? Tip sıfatlarını araştırınız. 
+Veri tiplerinin sınırları değiştirilemez.
+Python’da veri tipleri:
+Metin veri tipi (string)
+Sayısal veri tipleri (integer, float, complex)
+Sıralanabilir veri tipleri (list, tuple, range)
+Haritalama veri tipi (dict)
+Küme veri tipleri (set, frozenset)
+Boolean veri tipi (bool)
+İkili veri tipleri (bytes, bytearray, memoryview)
